@@ -1,0 +1,1 @@
+This quick project is an informal effort to develop encoders and decoders for the DHCP location options in a few different languages.  So far, there is Javascript support for RFC 3825 (option 123) and RFC 4776 (option 99), and we're working on a C++ version with roughly the same structure. 
